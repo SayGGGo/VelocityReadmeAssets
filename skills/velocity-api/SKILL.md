@@ -6,7 +6,7 @@ description: Use Velocity Public API to read an authorized user's profile, call 
 # Velocity API
 
 Base URL: `https://api.isvelocity.ru/public/v1/`
-Documentation: https://velocity-13.gitbook.io/docs/api
+Documentation: https://velocity-13.gitbook.io/docs
 Contract: https://api.isvelocity.ru/public/v1/openapi.json
 Support: https://t.me/velsupport_bot
 
